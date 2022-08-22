@@ -1,6 +1,6 @@
 ## Olá! 😊 Me chamo Jonas Cardoso! 
 
-### Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end Jr
+### Estudante de Análise e Desenvolvimento de Sistemas
 
 
 <div><br>
